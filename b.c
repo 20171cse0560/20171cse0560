@@ -26,5 +26,7 @@ printf("karans wife is winner\n");
 else
 printf("karans wife is not a winner\n");
 }
-PRINTF
+PRINTF("i m winner not")
+  print rr
 }
+aaaaa
