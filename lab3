@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>TITLE</title>
+</head>
+<body bgcolor="cyan">
+<div id="menu" align="middle">
+<a href="/home/exam1/Desktop/t.html">HOME</a>
+</div>
+<p>
+<mark>this is line 1</mark><br>
+<em>this is line 2</em><br>
+<strong>this is line 3</strong><br>
+<bdo dir="rtl">this is line 4</bdo>
+this is line 5
+<hr />
+<ul type="bullet">
+<li>item 1</li>
+<li>item 2</li>
+<li>item 3</li>
+</ul>
+<hr />
+<ol type="1">
+<li>item 1</li>
+<li>item 2</li>
+<li>item 3</li>
+</ol>
+<hr />
+<ol type="1" start=9>
+<li>item 1</li>
+<li>item 2</li>
+<li>item 3</li>
+</ol>
+<hr />
+<hr />
+
+<ol>
+<li>Fruit
+<ul>
+<li>Banana</li>
+<li>Apple
+<ul type="i">
+<li>red</li>
+<li>green</li>
+</ul></li></ul>
+<li>Vegetable
+<ol type="I">
+<li>tomato</li>
+<li>carrot</li>
+</ol></li></ol>
+<hr />
+
+<dl>
+<dt>FOOTBALL</dt>
+<dd>game played by boys and girls </dd>
+</dl>
+<hr />
+
+
+
+<dl>
+<center>
+<dt><strong>significance of color</strong></dt>
+</center>
+<dd>
+red...<br>
+green...<br>
+white...
+</dd>
+</dl>
+</p>
+</body>
+</html>
